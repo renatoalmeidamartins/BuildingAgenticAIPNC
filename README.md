@@ -20,3 +20,8 @@
     - [LangGraph quickstart](https://docs.langchain.com/oss/python/langgraph/quickstart)
 - Agentcore Runtime
     - [Runtime V2](https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/) for faster start
+    - [Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/)
+    - [Direct code vs container-based deployment](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/runtime-get-started-code-deploy.html)
+    - CLIs
+        - [Agentcore CLI](https://github.com/aws/agentcore-cli)
+        - **DEPRECATED** [Startert toolkit](https://github.com/aws/bedrock-agentcore-starter-toolkit)
