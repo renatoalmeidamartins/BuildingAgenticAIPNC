@@ -2,6 +2,7 @@
 
 ## Courseware, survey, labs
 - [Access to lab and courseware](https://us-east-1.student.classrooms.aws.training/class/ilt%23uadRukguztDD8PdJ59cyoW)
+- Survey: Inside [myclass](https://myclass.skillbuilder.aws), under past classes, there is the link to the "evaluation survey"
 
 ## Class links
 - [What is Agentic AI?](https://aws.amazon.com/what-is/agentic-ai/)
