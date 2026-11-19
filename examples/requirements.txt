@@ -1,3 +1,4 @@
 strands-agents
 langchain-aws
 langchain
+strands-agents[web-fetch]

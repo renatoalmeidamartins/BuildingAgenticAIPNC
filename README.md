@@ -25,3 +25,24 @@
     - CLIs
         - [Agentcore CLI](https://github.com/aws/agentcore-cli)
         - **DEPRECATED** [Startert toolkit](https://github.com/aws/bedrock-agentcore-starter-toolkit)
+- [Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/)
+- [Strands Vended Tools](https://strandsagents.com/docs/user-guide/sdk/tools/vended-tools/)
+- MCP
+    - [Overview](https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro)
+    - [Architecture](https://modelcontextprotocol.io/docs/2026-07-28/learn/architecture)
+    - [Tools](https://modelcontextprotocol.io/docs/2026-07-28/learn/server-concepts#how-tools-work) - notice the required operations are `tools/list` and `tools\call`
+    - [Open source MCP servers for AWS](https://github.com/awslabs/mcp)
+    - [MCP inspector](https://github.com/modelcontextprotocol/inspector)
+- [Search for tools in your AgentCore gateway with a natural language query](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-semantic-search.html)
+- New tools available in Agentcore Gateway
+    - Web Answer: [Getting started with Web Answer on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/)
+    - Web Search: [Announcing Web Search on Amazon Bedrock AgentCore: Ground your AI agents in current, accurate web knowledge](https://aws.amazon.com/blogs/aws/announcing-web-search-on-amazon-bedrock-agentcore-ground-your-ai-agents-in-current-accurate-web-knowledge/)
+- [Effective context engineering for AI agents](https://www.anthropic.com/research/effective-context-engineering-for-ai-agents)
+- [Why Policy in Amazon Bedrock AgentCore chose Cedar for securing agentic workflows](https://aws.amazon.com/blogs/security/why-policy-in-amazon-bedrock-agentcore-chose-cedar-for-securing-agentic-workflows/)
+- Agentcore memory
+    - [Built-in prompts for the memory extraction strategies](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/built-in-strategies.html)
+    - [Working with short-term memory](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/using-memory-short-term.html)
+    - [Working with long-term memory](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/long-term-memory-long-term.html). Notice you have no operation to add items to long-term memory. 
+    - [Strands package to integrate with Agentcore memory](https://strandsagents.com/docs/integrations/memory-stores/agentcore-memory-store/)
+    - [Fine-grained access control on Agentcore memory](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/memory-gateway-fgac.html)
+- [Strands event hooks](https://strandsagents.com/docs/user-guide/sdk/agents/hooks-events/)
