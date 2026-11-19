@@ -47,3 +47,5 @@
     - [Strands package to integrate with Agentcore memory](https://strandsagents.com/docs/integrations/memory-stores/agentcore-memory-store/)
     - [Fine-grained access control on Agentcore memory](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/memory-gateway-fgac.html)
 - [Strands event hooks](https://strandsagents.com/docs/user-guide/sdk/agents/hooks-events/)
+- [Prompts for agentcore evaluations](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/prompt-templates-builtin.html), there are plenty of metrics being "analyzed" 
+- [Add observability to your Amazon Bedrock AgentCore resources](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/observability-configure.html)
