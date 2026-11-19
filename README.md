@@ -11,3 +11,12 @@
     - [Manage agents, tools and skills at scale with AWS Agent Registry](https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/)
     - Harness: [Get to your first working agent in minutes: Announcing new features in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/get-to-your-first-working-agent-in-minutes-announcing-new-features-in-amazon-bedrock-agentcore/)
     - ReAct: Synergizing Reasoning and Acting in Language Models: [blog](https://research.google/blog/react-synergizing-reasoning-and-acting-in-language-models/) and the [research paper](https://arxiv.org/pdf/2210.03629)
+- Agentic frameworks 
+    - Strands 
+        - [Introducing Strands Agents, an Open Source AI Agents SDK](https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/)
+        - [Strands Agents SDK: A technical deep dive into agent architectures and observability](https://aws.amazon.com/blogs/machine-learning/strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/)
+        - [Strands SDK docs](https://strandsagents.com/docs/user-guide/sdk/quickstart/overview/)
+    - [CrewAI quickstart](https://docs.crewai.com/v1.15.41/en/quickstart)
+    - [LangGraph quickstart](https://docs.langchain.com/oss/python/langgraph/quickstart)
+- Agentcore Runtime
+    - [Runtime V2](https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/) for faster start
